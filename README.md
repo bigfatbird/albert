@@ -1,4 +1,4 @@
-## ALBER
+## ALBERT
 | A Logic -Based Entity Revolutionizing Technology
 
 albert is a new operating system in early development stage
