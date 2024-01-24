@@ -1,4 +1,10 @@
-# albert
-Albert - A logic based entity revolutionizing technology
+## ALBER
+| A Logic -Based Entity Revolutionizing Technology
 
-Albert is a new operating system in early development stage
+albert is a new operating system in early development stage
+
+## QUASAR
+
+| Quick Universal Adaptive Startup Agent for Rapid Boot Process
+
+quasar is a bootloader for albert
